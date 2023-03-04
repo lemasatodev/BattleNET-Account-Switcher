@@ -1,0 +1,78 @@
+v1.0 (01 Dec 2017)
+	
+	Public-ready release.
+
+-----------------------
+v0.3.3 (28 Nov 2017)
+	
+	Changes:
+	- Removed the yes/no update box. Updating is now instant.
+	This can be disabled by setting the Auto_Update value to 0 in the local ini file.
+
+-----------------------
+v0.3.2 (27 Nov 2017)
+
+	Fixes:
+	- The second row of icons would not be centered under specific circumstances.
+	
+-----------------------
+v0.3.1 (27 Nov 2017)
+
+	Fixes:
+	- Some interactions with the auto-updater.
+
+-----------------------
+v0.3 (27 Nov 2017)
+
+	Added:
+	- Compatibility for Destiny 2 and StarCraft Remastered.
+	
+	Fixes:
+	- The "Accounts" tab would not be highlighted after successfully adding an account through the "Add an account" menu item.
+	- The version text in the Opts tab could be wrongly positioned under specific circumstances.
+	
+-----------------------
+v0.2.2 (25 Nov 2017)
+
+	Fixes:
+	- Typo fix in the "Remove selected account" message box.
+	
+-----------------------
+v0.2.1 (25 Nov 2017)
+
+	Changes:
+	- The auto-updater executable would not be deleted after updating.
+	
+-----------------------
+v0.2 (25 Nov 2017)
+
+	Changes:
+	- New icon for the application.
+	
+	Fixes:
+	- User could choose "Remove selected account" without any account selected.
+	
+-----------------------
+v0.1.2 (22 Nov 2017)
+
+	Added:
+	- Reddit text link URL.
+	
+	Changes:
+	- Removed Blizzard text link.
+	
+-----------------------
+v0.1.1 (22 Nov 2017):
+
+	Added:
+	- Current version num in the Opts tab.
+	
+	Changes:
+	- Improved the email InputBox text.
+	
+	Fixes:
+	- Update checking would not work as it should.
+
+-----------------------
+v0.1 (22 Nov 2017):
+	- Initially published on Github.
