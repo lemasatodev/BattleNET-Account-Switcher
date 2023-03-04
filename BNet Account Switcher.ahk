@@ -3,7 +3,7 @@
 *					BNet Account Switcher																														*
 *					Easily switch between accounts without having to input your password everytime																*
 *																																								*
-*					https://github.com/lemasato/BNet-Account-Switcher/																							*
+*					https://github.com/lemasatodev/BattleNet-Account-Switcher/																							*
 *																																								*	
 *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
 */
@@ -57,11 +57,11 @@ Start_Script() {
 
 	ProgramValues.Name 					:= "BNet Account Switcher"
 	ProgramValues.Version 				:= "1.0"
-	ProgramValues.Github_User 			:= "lemasato"
-	ProgramValues.GitHub_Repo 			:= "BNet-Account-Switcher"
+	ProgramValues.Github_User 			:= "lemasatodev"
+	ProgramValues.GitHub_Repo 			:= "BattleNET-Account-Switcher"
 
 	ProgramValues.GitHub 				:= "https://github.com/" ProgramValues.Github_User "/" ProgramValues.GitHub_Repo
-	ProgramValues.Reddit 				:= "https://www.reddit.com/user/lemasato/submitted/"
+	ProgramValues.Reddit 				:= "https://www.reddit.com/user/lemasatodev/submitted/"
 	ProgramValues.Paypal 				:= "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KUTP3PG7GY756"
 
 	ProgramValues.Local_Folder 			:= A_MyDocuments "\AutoHotkey\" ProgramValues.Name
